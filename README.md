@@ -28,7 +28,7 @@ tic-tac-toe10.data
 
 tic-tac-toe20.data
 
-		...
+...
 
 tic-tac-toe100.data
 

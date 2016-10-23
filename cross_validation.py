@@ -2,9 +2,6 @@
 
 #FILENAME   : cross_validation.py 
 #PROGRAMMER : Vijay Koju
-#CLASS      : CSCI 6350/7350 (Data Mining)
-#DUE DATE   : 2/19/2013
-#INSTRUCTOR : Dr. Li
 
 import generate_data as gd
 import naive_bayes_tictactoe as nb
